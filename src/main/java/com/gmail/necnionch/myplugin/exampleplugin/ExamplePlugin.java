@@ -2,6 +2,9 @@ package com.gmail.necnionch.myplugin.exampleplugin;
 
 import org.bukkit.plugin.java.JavaPlugin;
 
+
+// プラグインのメインクラス ExamplePlugin クラス
+// ExamplePluginクラス は JavaPluginクラス を継承します
 public final class ExamplePlugin extends JavaPlugin {
 
     @Override
