@@ -1,0 +1,5 @@
+name: ExampleKleePlugin
+version: '${version}'
+main: com.gmail.necnionch.myplugin.exampleplugin.ExamplePlugin
+api-version: 1.19
+authors: [ Necnion8 ]
